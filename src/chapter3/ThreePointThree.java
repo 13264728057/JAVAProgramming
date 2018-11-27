@@ -5,5 +5,5 @@ package chapter3;
  * @Date: ${date} ${hour}:${minute}
  * @Description:
  */
-public class ThreePointthree {
+public class ThreePointThree {
 }
